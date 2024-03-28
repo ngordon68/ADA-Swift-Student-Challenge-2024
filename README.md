@@ -7,7 +7,7 @@ We’re excited to continue our long-standing support of students at the Apple D
 
 
 | Name | Source |    Videos    | Technologies 
-|------|--------|--------------|--------------|--------|----------------|
+|------|--------|--------------|--------------|
 | Student #1 | [GitHub](https://github.com/TheIntelCorei9/Swift-Student-Challenge-23) | [YouTube](https://www.youtube.com/watch?v=ViGDWfh0ViA) | UIKit, SpriteKit, Core Motion | Submitted | Want to |
 | Student #2 | [GitHub](https://github.com/yongfrank/regexgo) <br> [App Store](https://apps.apple.com/app/regex-go/id6447801504) | [Youtube](https://www.youtube.com/watch?v=nNWsuZMPHtk) | Swift Regex, RegexBuilder | Submitted | Want to |
 | Student #3 | [GitHub](https://github.com/henribredt/E-Piano-WWDC23) | [Youtube](https://www.youtube.com/watch?v=0ZGPRZ1uUi0) | SwiftUI | Submitted | Want to |
