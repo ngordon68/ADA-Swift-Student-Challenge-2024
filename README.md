@@ -1,4 +1,4 @@
-# ADA-Swift-Student-Challenge-2024
+# ADA Detroit-Swift-Student-Challenge-2024
 
 
 We’re excited to continue our long-standing support of students at the Apple Developer Academy Detroit. Here is an ever-growing list of past learner submissions for inspiration. Show us your passion for coding by submitting an incredible app playground on the topic of your choice.
